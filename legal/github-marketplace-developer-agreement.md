@@ -1,45 +1,32 @@
 # GitHub Marketplace Developer Agreement
 
-This GitHub Marketplace Developer Agreement (the "Agreement") is between you (the "Developer") and GitHub, Inc. ("GitHub") and governs your use of the GitHub Marketplace and the Developer Services (as defined below).
+## 1. Introduction
 
-By using the GitHub Marketplace, you agree to be bound by this Agreement. If you do not agree to this Agreement, you must not use the GitHub Marketplace.
+This Agreement governs your access to and use of the GitHub Marketplace.
 
-## 1. Definitions
+## 2. Definitions
 
-1.1 “Developer Services” means the software applications, tools, and services provided by you for use in connection with the GitHub Marketplace.
+- **Developer**: An entity that creates software applications for the GitHub Marketplace.
+- **Marketplace**: The GitHub Marketplace where developers can offer their applications.
 
-1.2 “GitHub Marketplace” means the online marketplace where users can discover and purchase Developer Services.
+## 3. Your Obligations
 
-## 2. License Grant
+You must comply with all applicable laws and regulations in your use of the Marketplace.
 
-2.1 You grant GitHub a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, publish, and distribute your Developer Services in connection with the GitHub Marketplace.
+## 4. Developer Responsibilities
 
-## 3. Developer Obligations
+### 4.1 General Responsibilities
 
-3.1 You represent and warrant that you own or have the necessary rights to license your Developer Services.
+As a Developer, you are responsible for the applications you publish in the Marketplace.
 
-3.2 You agree to comply with all applicable laws and regulations in connection with your Developer Services.
+### 4.2 Compliance with Laws
 
-## 4. Term and Termination
+You must ensure that your applications comply with all applicable laws.
 
-4.1 This Agreement will remain in effect until terminated by either party.
+### 4.3 Reporting
 
-4.2 Either party may terminate this Agreement at any time with or without cause.
+You must report any issues or violations related to your applications.
 
-## 5. Limitation of Liability
+## 5. Termination
 
-5.1 GitHub will not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or relating to this Agreement.
-
-## 6. Miscellaneous
-
-6.1 This Agreement constitutes the entire agreement between you and GitHub regarding the subject matter hereof.
-
-6.2 Any amendments to this Agreement must be in writing and signed by both parties.
-
-## 7. Contact Information
-
-If you have any questions about this Agreement, please contact us at support@github.com.
-
----
-
-This Agreement is effective as of the date you first use the GitHub Marketplace.
+GitHub may terminate your access to the Marketplace if you violate this Agreement.
